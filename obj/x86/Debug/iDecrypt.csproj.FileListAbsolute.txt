@@ -1,0 +1,3 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\bin\Debug\iDecrypt.exe.config
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Debug\iDecrypt.exe
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Debug\iDecrypt.pdb

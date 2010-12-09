@@ -1,0 +1,10 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\bin\Release\iDecrypt.exe.config
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\bin\Release\iDecrypt.exe
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\bin\Release\iDecrypt.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Release\QuickDecrypt.Form1.resources
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Release\iDecrypt.Properties.Resources.resources
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Release\iDecrypt.exe
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\iDecrypt\iDecrypt\obj\x86\Release\iDecrypt.pdb

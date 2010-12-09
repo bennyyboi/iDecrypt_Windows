@@ -1,0 +1,19 @@
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\bin\Debug\QuickDecrypt.exe
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\bin\Debug\QuickDecrypt.pdb
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\obj\x86\Debug\QuickDecrypt.Form1.resources
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\obj\x86\Debug\QuickDecrypt.Properties.Resources.resources
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\obj\x86\Debug\QuickDecrypt.exe
+C:\Users\Ben\AppData\Local\Temporary Projects\QuickDecrypt\obj\x86\Debug\QuickDecrypt.pdb
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\obj\x86\Debug\QuickDecrypt.Form1.resources
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\obj\x86\Debug\QuickDecrypt.Properties.Resources.resources
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\bin\Debug\iDecrypt.exe.config
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\bin\Debug\iDecrypt.exe
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\bin\Debug\iDecrypt.pdb
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\obj\x86\Debug\iDecrypt.exe
+C:\Users\Ben\documents\visual studio 2010\Projects\QuickDecrypt\QuickDecrypt\obj\x86\Debug\iDecrypt.pdb
